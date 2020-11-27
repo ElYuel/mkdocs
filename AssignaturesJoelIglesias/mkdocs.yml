@@ -1,7 +1,8 @@
-site_name: AssignaturesJoelIglesias
+site_name: TTIslaDeManJoelIglesias
 nav:
-    - home: index.md
-    - M06: m06.md
-    - M07: m07.md
-    - M08: m08.md
-    - M09: m09.md 
+    - Home: index.md
+    - Historia: historia.md
+    - Categorias: categorias.md
+    - Ediciones Campeonato Munidal: ediciones.md
+    - About: about.md 
+theme: readthedocs
