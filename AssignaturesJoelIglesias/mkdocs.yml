@@ -7,4 +7,5 @@ nav:
     - About: about.md 
 theme: readthedocs
 include_search_page: true
+copyright: Hecho por Joel Iglesias Jimenez
 
