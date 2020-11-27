@@ -6,3 +6,5 @@ nav:
     - Ediciones Campeonato Munidal: ediciones.md
     - About: about.md 
 theme: readthedocs
+include_search_page: true
+
